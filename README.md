@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Сертификаты Нетологии
+https://github.com/AlexeyTomilovskikh/Certificates
+
 <!--
 **AlexeyTomilovskikh/AlexeyTomilovskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
