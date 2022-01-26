@@ -7,8 +7,8 @@
 Linux, Windows, Python, HTTP, SQL, PostgreSQL, PyTest, Django Framework, Asyncio, Nginx, Flask, Docker, Docker-compose, Aiohttp, Celery.
 
 Сертификаты завершенных курсов профессиональной переподготовки ООО «ЦОО Нетология-групп» 
-по специальности Python-разработчик 
-https://github.com/AlexeyTomilovskikh/Certificates
+
+по специальности Python-разработчик https://github.com/AlexeyTomilovskikh/Certificates
 
 <!--
 **AlexeyTomilovskikh/AlexeyTomilovskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
